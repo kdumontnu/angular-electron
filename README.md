@@ -1,12 +1,9 @@
-[![Angular Logo](https://www.vectorlogo.zone/logos/angular/angular-icon.svg)](https://angular.io/) [![Electron Logo](https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg)](https://electronjs.org/)
+[![AllSpice Logo](https://static.wixstatic.com/media/d55d1b_009781b0c2ea44cdb5a4e711bbd5ace5~mv2_d_1332_1331_s_2.png/v1/fill/w_43,h_42,al_c,q_80,usm_0.66_1.00_0.01/AS-Logo_MediumBlue.webp)](https://www.allspice.io/)
+[![Angular Logo](https://www.vectorlogo.zone/logos/angular/angular-icon.svg)](https://angular.io/) 
+[![Electron Logo](https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg)](https://electronjs.org/)
 
 [![Travis Build Status][build-badge]][build]
 [![Make a pull request][prs-badge]][prs]
-[![License](http://img.shields.io/badge/Licence-MIT-brightgreen.svg)](LICENSE.md)
-
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
-[![Tweet][twitter-badge]][twitter]
 
 # Introduction
 
